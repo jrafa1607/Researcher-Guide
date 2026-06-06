@@ -1,3 +1,11 @@
+### 📊 Technology Events
+
+| Platform | Scope |
+| :--- | :---: |
+| **[Speakfy](https://speakfy.io/)** | 🇧🇷 |
+
+---
+
 ### 🤝 Scientific Events, Boards, Committees & Conferences
 
 | Event / Board / Foundation / Conference | Scope |
@@ -20,8 +28,4 @@
 
 ---
 
-### Technology Events
 
-| Platform | Scope |
-| :--- | :---: |
-| **[Speakfy](https://speakfy.io/)** | 🇧🇷 |
