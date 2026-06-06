@@ -15,9 +15,6 @@
 | **[Research, Society and Development](https://rsdjournal.org/)** | 🇧🇷 |
 | **[Revista Aracê (Direitos Humanos / CPS)](https://periodicos.newsciencepubl.com/arace)** | 🇧🇷 |
 | **[Revista Brasileira da Educação Profissional e Tecnológica (RBEPT)](https://www2.ifrn.edu.br/ojs/index.php/RBEPT)** | 🇧🇷 |
-| **[Revista Cubana de Información en Ciencias de la Salud](http://rcics.sld.cu/)** | 🌐 |
 | **[Revista de Gestão e Secretariado (GeSec)](https://ojs.revistagesec.org.br/index.php/secretariado)** | 🇧🇷 |
 | **[Revista Ibérica de Sistemas e Tecnologias de Informação (RISTI)](https://www.risti.xyz/)** | 🌐 |
 | **[Revista Produção Online](https://producaoonline.org.br/rpo)** | 🇧🇷 |
-| **[SAGE Open](https://journals.sagepub.com/home/sgo)** | 🌐 |
-| **[Social Networking](https://www.scirp.org/journal/sn/)** | 🌐 |
