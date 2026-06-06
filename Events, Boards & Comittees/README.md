@@ -1,15 +1,8 @@
-### 📊 Technology Events
-
-| Platform | Scope |
-| :--- | :---: |
-| **[Speakfy](https://speakfy.io/)** | 🇧🇷 |
-
----
-
-### 🤝 Scientific Events, Boards, Committees & Conferences
+### 📊 Scientific Events, Boards, Committees & Conferences
 
 | Event / Board / Foundation / Conference | Scope |
 | :--- | :---: |
+| **[*Speakfy](https://speakfy.io/)** | 🇧🇷 |
 | **[Brazilian Conference on Intelligent Systems (BRACIS)](https://bracis.sbc.org.br/2026/)** | 🇧🇷 |
 | **[Congresso Brasileiro de Engenharia de Produção (ConBRepro)](https://aprepro.org.br/conbrepro/)** | 🇧🇷 |
 | **[Congresso Brasileiro de Gestão do Conhecimento (KmBrasil)](https://sbgc.org.br/kmbrasil/)** | 🇧🇷 |
@@ -28,4 +21,8 @@
 
 ---
 
-
+| Event / Board / Foundation / Conference | Scope |
+| :--- | :---: |
+| **[AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)** | 🌐 |
+| **[Bsides](https://securitybsides.com.br/2026/)** | 🇧🇷 |
+| **[Fortinet Webinars and Events](https://www.fortinet.com/corporate/about-us/events)** | 🌐 |
