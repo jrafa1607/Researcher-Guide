@@ -8,7 +8,6 @@
 | **[Congresso Brasileiro de Gestão do Conhecimento (KmBrasil)](https://sbgc.org.br/kmbrasil/)** | 🇧🇷 |
 | **[Foundations of Open Source Intelligence & Security Informatics (FOSINT-SI)](https://fosint-si.github.io/)** | 🌐 |
 | **[Human-Computer Interaction International (HCI International)](https://2026.hci.international/)** | 🌐 |
-| **[International Conference on Electrical, Computer and Energy Technologies (ICECET)](https://www.icecet.com/)** | 🌐 |
 | **[International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)](https://www.iceccme.com/)** | 🌐 |
 | **[International Conference on Information Technology & Systems (ICITS)](https://www.icits.me/)** | 🌐 |
 | **[Multidisciplinary International Conference of Research Applied to Defense and Security (MICRADS)](https://www.micrads.org/)** | 🌐 |
