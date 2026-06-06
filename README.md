@@ -12,21 +12,6 @@ This repository serves as a centralized collection of tools, platforms, and reso
 
 ---
 
-## 📚🏛️ Major Journal Databases & Periodicals
-
-Use these prominent indexing systems and digital libraries to discover peer-reviewed articles, books, and conference proceedings:
-
-| Database / Publisher | Description |
-| :--- | :--- |
-| **[ScienceDirect](https://www.sciencedirect.com/)** | Elsevier's leading platform of peer-reviewed scholarly literature, covering physical sciences, engineering, life sciences, and health. |
-| **[IEEE Xplore](https://ieeexplore.ieee.org/)** | A powerful digital library providing access to technical literature in electrical engineering, computer science, and electronics. |
-| **[Scopus](https://www.scopus.com/)** | One of the largest abstract and citation databases of peer-reviewed literature, scientific journals, books, and conference proceedings. |
-| **[Web of Science](https://www.webofscience.com/)** | A publisher-independent global citation database used to track and analyze multidisciplinary scientific research impact. |
-| **[Google Scholar](https://scholar.google.com/)** | A freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats. |
-| **[Periódicos CAPES](https://www.periodicos.capes.gov.br/)** | A virtual library consortium providing Brazilian academic institutions with access to high-impact international scientific content. |
-
----
-
 ## 脡識 Notable Scientific Research Events
 
 A list of prominent national and international academic conferences to track call for papers (CFPs), trends, and network with the scientific community:
