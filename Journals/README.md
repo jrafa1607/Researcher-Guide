@@ -20,7 +20,7 @@
 | **[International Journal of Recent Scientific Research (IJRSR)](http://www.recentscientific.com/)** | 🌐 |
 | **[Journal of Applied Security Research](https://www.tandfonline.com/journals/wasr20)** | 🌐 |
 | **[Lecture Notes in Business Information Processing (LNBIP)](https://www.springer.com/series/7911)** | 🌐 |
-| **[Lecture Notes in Computer Science (LNCS)](https://www.springer.com/series/7408)** | 🌐 |
+| **[Lecture Notes in Computer Science (LNCS)](https://link.springer.com/series/558)** | 🌐 |
 | **[Lecture Notes in Electrical Engineering (LNEE)](https://www.springer.com/series/7818)** | 🌐 |
 | **[NAVUS - Revista de Gestão e Tecnologia](https://navus.sc.senac.br/index.php/navus)** | 🇧🇷 |
 | **[Observatorio de la Economía Latinoamericana](https://ojs.observatoriolatinoamericano.com/ojs/index.php/olel)** | 🇧🇷 |
