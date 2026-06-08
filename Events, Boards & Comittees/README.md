@@ -5,6 +5,8 @@
 | **[*Speakfy](https://speakfy.io/)** | 🇧🇷 |
 | **[WikiCFP - Call For Papers for Conferences](http://www.wikicfp.com/cfp/)** | 🌐 |
 
+---
+
 | Event / Board / Foundation / Conference | Scope |
 | :--- | :---: |
 | **[APMS - International Conference on Advances in Production Management Systems](https://www.apms-conference.org/)** | 🌐 |
