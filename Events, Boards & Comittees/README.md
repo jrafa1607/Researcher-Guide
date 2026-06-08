@@ -9,7 +9,6 @@
 
 | Event / Board / Foundation / Conference | Scope |
 | :--- | :---: |
-| **[APMS - International Conference on Advances in Production Management Systems](https://www.apms-conference.org/)** | 🌐 |
 | **[Amazon Web Services (AWS) Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)** | 🌐 |
 | **[Brazilian Conference on Intelligent Systems (BRACIS)](https://bracis.sbc.org.br/2026/)** | 🇧🇷 |
 | **[Congresso Brasileiro de Engenharia de Produção (ConBRepro)](https://aprepro.org.br/conbrepro/)** | 🇧🇷 |
