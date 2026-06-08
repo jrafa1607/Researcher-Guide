@@ -10,10 +10,13 @@
 | Event / Board / Foundation / Conference | Scope |
 | :--- | :---: |
 | **[APMS - International Conference on Advances in Production Management Systems](https://www.apms-conference.org/)** | 🌐 |
+| **[AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)** | 🌐 |
 | **[Brazilian Conference on Intelligent Systems (BRACIS)](https://bracis.sbc.org.br/2026/)** | 🇧🇷 |
+| **[Bsides](https://securitybsides.com.br/2026/)** | 🇧🇷 |
 | **[Congresso Brasileiro de Engenharia de Produção (ConBRepro)](https://aprepro.org.br/conbrepro/)** | 🇧🇷 |
 | **[Congresso Brasileiro de Gestão do Conhecimento (KmBrasil)](https://sbgc.org.br/kmbrasil/)** | 🇧🇷 |
 | **[ENEGEP - Encontro Nacional de Engenharia de Produção](https://www.abepro.org.br/enegep/)** | 🇧🇷 |
+| **[Fortinet Webinars and Events](https://www.fortinet.com/corporate/about-us/events)** | 🌐 |
 | **[Foundations of Open Source Intelligence & Security Informatics (FOSINT-SI)](https://fosint-si.github.io/)** | 🌐 |
 | **[Human-Computer Interaction International (HCI International)](https://2026.hci.international/)** | 🌐 |
 | **[International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)](https://www.iceccme.com/)** | 🌐 |
@@ -29,9 +32,3 @@
 | **[World Conference on Economics and Management (WorldCEM)](https://www.worldcem.org/)** | 🌐 |
 
 ---
-
-| Event / Board / Foundation / Conference | Scope |
-| :--- | :---: |
-| **[AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)** | 🌐 |
-| **[Bsides](https://securitybsides.com.br/2026/)** | 🇧🇷 |
-| **[Fortinet Webinars and Events](https://www.fortinet.com/corporate/about-us/events)** | 🌐 |
