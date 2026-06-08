@@ -18,7 +18,7 @@
 | **[Foundations of Open Source Intelligence & Security Informatics (FOSINT-SI)](https://fosint-si.github.io/)** | 🌐 |
 | **[Human-Computer Interaction International (HCI International)](https://2026.hci.international/)** | 🌐 |
 | **[International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)](https://www.iceccme.com/)** | 🌐 |
-| **[International Conference on Information Systems and Technology Management (CONTECSI)](http://www.contecsi.fea.usp.br/)** | 🌐 |
+| **[International Conference on Information Systems and Technology Management (CONTECSI)](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI)** | 🌐 |
 | **[International Conference on Information Technology & Systems (ICITS)](https://www.icits.me/)** | 🌐 |
 | **[Multidisciplinary International Conference of Research Applied to Defense and Security (MICRADS)](https://www.micrads.org/)** | 🌐 |
 | **[Security Bsides - São Paulo, SP](https://securitybsides.com.br/2026/)** | 🇧🇷 |
