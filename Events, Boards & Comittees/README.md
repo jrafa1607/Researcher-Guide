@@ -12,7 +12,6 @@
 | **[APMS - International Conference on Advances in Production Management Systems](https://www.apms-conference.org/)** | 🌐 |
 | **[Amazon Web Services (AWS) Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)** | 🌐 |
 | **[Brazilian Conference on Intelligent Systems (BRACIS)](https://bracis.sbc.org.br/2026/)** | 🇧🇷 |
-| **[Bsides](https://securitybsides.com.br/2026/)** | 🇧🇷 |
 | **[Congresso Brasileiro de Engenharia de Produção (ConBRepro)](https://aprepro.org.br/conbrepro/)** | 🇧🇷 |
 | **[Congresso Brasileiro de Gestão do Conhecimento (KmBrasil)](https://sbgc.org.br/kmbrasil/)** | 🇧🇷 |
 | **[ENEGEP - Encontro Nacional de Engenharia de Produção](https://www.abepro.org.br/enegep/)** | 🇧🇷 |
@@ -23,6 +22,7 @@
 | **[International Conference on Information Systems and Technology Management (CONTECSI)](http://www.contecsi.fea.usp.br/)** | 🌐 |
 | **[International Conference on Information Technology & Systems (ICITS)](https://www.icits.me/)** | 🌐 |
 | **[Multidisciplinary International Conference of Research Applied to Defense and Security (MICRADS)](https://www.micrads.org/)** | 🌐 |
+| **[Security Bsides - São Paulo, SP](https://securitybsides.com.br/2026/)** | 🇧🇷 |
 | **[SEMEAD - Seminários em Administração](https://semead.com.br/)** | 🇧🇷 |
 | **[Simpósio de Excelência em Gestão e Tecnologia (SEGeT)](https://www.aedb.br/seget/)** | 🇧🇷 |
 | **[Simpósio de Iniciação Científica e Tecnológica (SICT)](http://sict.fatecsp.br/)** | 🇧🇷 |
