@@ -1,9 +1,9 @@
 ### 📊 Scientific Events, Boards, Committees & Conferences
 
-| Guides | Scope |
+| Guides - Call for Papers | Scope |
 | :--- | :---: |
-| **[*Speakfy](https://speakfy.io/)** | 🇧🇷 |
-| **[WikiCFP - Call For Papers for Conferences](http://www.wikicfp.com/cfp/)** | 🌐 |
+| **[Speakfy](https://speakfy.io/)** | 🇧🇷 |
+| **[WikiCFP](http://www.wikicfp.com/cfp/)** | 🌐 |
 
 ---
 
