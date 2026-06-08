@@ -27,7 +27,5 @@
 | **[Simpósio de Iniciação Científica e Tecnológica (SICT)](http://sict.fatecsp.br/)** | 🇧🇷 |
 | **[Simpósio de Engenharia de Produção (SIMPEP)](https://eventos.feb.unesp.br/xxxiii_simpep/)** | 🇧🇷 |
 | **[Simpósio de Gestão de Projetos, Inovação e Sustentabilidade (SINGEP)](https://www.singep.org.br/)** | 🇧🇷 |
-| **[Sociedade Brasileira de Inteligência Artificial - Eventos (SBIA)](https://sbia.org.br/eventos/)** | 🇧🇷 |
-| **[World Conference on Economics and Management (WorldCEM)](https://www.worldcem.org/)** | 🌐 |
 
 ---
