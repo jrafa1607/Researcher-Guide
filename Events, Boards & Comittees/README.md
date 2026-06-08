@@ -1,8 +1,12 @@
 ### 📊 Scientific Events, Boards, Committees & Conferences
 
-| Event / Board / Foundation / Conference | Scope |
+| Guides | Scope |
 | :--- | :---: |
 | **[*Speakfy](https://speakfy.io/)** | 🇧🇷 |
+| **[WikiCFP - Call For Papers for Conferences](http://www.wikicfp.com/cfp/)** | 🌐 |
+
+| Event / Board / Foundation / Conference | Scope |
+| :--- | :---: |
 | **[APMS - International Conference on Advances in Production Management Systems](https://www.apms-conference.org/)** | 🌐 |
 | **[Brazilian Conference on Intelligent Systems (BRACIS)](https://bracis.sbc.org.br/2026/)** | 🇧🇷 |
 | **[Congresso Brasileiro de Engenharia de Produção (ConBRepro)](https://aprepro.org.br/conbrepro/)** | 🇧🇷 |
@@ -21,7 +25,6 @@
 | **[Simpósio de Gestão de Projetos, Inovação e Sustentabilidade (SINGEP)](https://www.singep.org.br/)** | 🇧🇷 |
 | **[Sociedade Brasileira de Inteligência Artificial - Eventos (SBIA)](https://sbia.org.br/eventos/)** | 🇧🇷 |
 | **[World Conference on Economics and Management (WorldCEM)](https://www.worldcem.org/)** | 🌐 |
-| **[WikiCFP - Call For Papers for Conferences](http://www.wikicfp.com/cfp/)** | 🌐 |
 
 ---
 
