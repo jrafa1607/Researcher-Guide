@@ -2,6 +2,7 @@
 
 | Guides - Call for Papers | Scope |
 | :--- | :---: |
+| **[Agenda-Tech-Brasil](https://github.com/agenda-tech-brasil/agenda-tech-brasil)** | 🇧🇷 |
 | **[Speakfy](https://speakfy.io/)** | 🇧🇷 |
 | **[WikiCFP](http://www.wikicfp.com/cfp/)** | 🌐 |
 
