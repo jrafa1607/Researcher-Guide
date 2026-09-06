@@ -4,7 +4,7 @@ The Indexing Systems and Digital Libraries to discover peer-reviewed articles, b
 
 | Publisher | Description |
 | :--- | :--- |
-| **[Acesso Cafe (Comunidade Acadêmica Federada)](https://www.periodicos.capes.gov.br/index.php/acesso-cafe.html)** | Access in Journal Databases provided by University. |
+| **[ - Acesso Cafe](https://www.periodicos.capes.gov.br/index.php/acesso-cafe.html)** | (Cafe - Comunidade Acadêmica Federada) Access in Journal Databases provided by University. |
 | **[ACM Digital Library](https://dl.acm.org/)** | The world's most comprehensive collection of full-text articles and bibliographic literature. |
 | **[Emerald Insight](https://www.emerald.com/)** | A Collection of journals, books, case studies, and open access content.
 | **[Google Scholar](https://scholar.google.com/)** | A web search engine that indexes the full text or metadata of scholarly literature. |
