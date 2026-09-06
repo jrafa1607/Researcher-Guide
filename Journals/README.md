@@ -3,6 +3,7 @@
 | Journal / Publisher | Scope |
 | :--- | :---: |
 | **[Advances in Intelligent Systems and Computing](https://www.springer.com/series/11156)** | 🌐 |
+| **[AtoZ – Novas Práticas em Informação e Conhecimento](https://revistas.ufpr.br/atoz)** | 🇧🇷 |
 | **[Brazilian Journal of Development (BJD)](https://ojs.brazilianjournals.com.br/index.php/BRJD)** | 🇧🇷 |
 | **[Brazilian Journal of Information Science - Research Trends (BRAJIS)](https://revistas.marilia.unesp.br/index.php/bjis/index)** | 🇧🇷 |
 | **[Caderno Pedagógico](https://ojs.studiespublicacoes.com.br/ojs/index.php/cadped)** | 🇧🇷 |
@@ -13,6 +14,7 @@
 | **[Gestão & Produção (G&P)](https://www.scielo.br/j/gp/)** | 🇧🇷 |
 | **[Gestão da Produção, Operações e Sistemas (GEPROS)](https://revista.feb.unesp.br/gepros)** | 🇧🇷 |
 | **[Iberoamerican Journal of Industrial Engineering (IJIE)](https://periodicos.ufsc.br/index.php/IJIE)** | 🌐 |
+| **[IEEE Latin America Transactions](https://latamt.ieeer9.org/index.php/transactions)** | 🌐 |
 | **[IFIP Advances in Information and Communication Technology](https://www.springer.com/series/6102)** | 🌐 |
 | **[Indian Journal of Science and Technology](https://indjst.org/)** | 🌐 |
 | **[International Journal of Computer Applications (IJCA)](https://www.ijcaonline.org/)** | 🌐 |
