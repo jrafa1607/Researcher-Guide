@@ -18,6 +18,7 @@
 | **[Fortinet Webinars and Events](https://www.fortinet.com/corporate/about-us/events)** | 🌐 |
 | **[Foundations of Open Source Intelligence & Security Informatics (FOSINT-SI)](https://fosint-si.github.io/)** | 🌐 |
 | **[Human-Computer Interaction International (HCI International)](https://2026.hci.international/)** | 🌐 |
+| **[International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications](https://www.acdsa.org/)** | 🌐 |
 | **[International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)](https://www.iceccme.com/)** | 🌐 |
 | **[International Conference on Information Systems and Technology Management (CONTECSI)](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI)** | 🌐 |
 | **[International Conference on Information Technology & Systems (ICITS)](https://www.icits.me/)** | 🌐 |
