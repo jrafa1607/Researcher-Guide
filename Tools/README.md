@@ -5,6 +5,7 @@ Below is a curated list of high-quality tools to enhance academic writing, organ
 | Tool / Platform | Description |
 | :--- | :--- |
 | **[Connected Papers](https://www.connectedpapers.com/)** | A visual tool to find and explore academic papers using citation graphs. |
+| **[CopySpider](https://copyspider.com.br/main/en/)** | A tool for checking documents for potentially improper copies of materials. |
 | **[Grammarly](https://www.grammarly.com/)** | An AI-powered writing assistant for grammar checking in academic manuscripts. |
 | **[Mendeley](https://www.mendeley.com/)** | A Reference Manager that helps organize research, collaborate online, and generate bibliographies. |
 | **[Overleaf](https://www.overleaf.com/)** | An Online, Collaborative LaTeX editor for writing, editing, and publishing scientific documents. |
