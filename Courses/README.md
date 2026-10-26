@@ -2,6 +2,7 @@
 
 | Plataforms | Scope |
 | :--- | :---: |
+| **[Cybrary](https://www.cybrary.it/)** | 🌐 |
 | **[Fundação Bradesco - Escola Virtual](https://www.ev.org.br/cursos)** | 🇧🇷 |
 | **[IT Certs - Professional Certifications](https://www.itcerts.ca/)** | 🌐 |
 | **[Microsoft Learn](https://learn.microsoft.com/pt-br/training/browse/)** | 🌐 |
