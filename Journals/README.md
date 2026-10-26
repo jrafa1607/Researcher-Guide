@@ -3,6 +3,7 @@
 | Journal / Publisher | Scope |
 | :--- | :---: |
 | **[Advances in Intelligent Systems and Computing](https://www.springer.com/series/11156)** | 🌐 |
+| **[Asian Journal of Advanced Research and Reports](https://journalajarr.com/index.php/AJARR)** | 🌐 |
 | **[AtoZ – Novas Práticas em Informação e Conhecimento](https://revistas.ufpr.br/atoz)** | 🇧🇷 |
 | **[Brazilian Journal of Development (BJD)](https://ojs.brazilianjournals.com.br/index.php/BRJD)** | 🇧🇷 |
 | **[Brazilian Journal of Information Science - Research Trends (BRAJIS)](https://revistas.marilia.unesp.br/index.php/bjis/index)** | 🇧🇷 |
