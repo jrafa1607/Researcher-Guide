@@ -13,6 +13,7 @@
 | **[Microsoft Learn](https://learn.microsoft.com/pt-br/training/browse/)** | 🌐 |
 | **[Red Team Leaders](https://courses.redteamleaders.com/catalog)** | 🌐 |
 | **[SENAI Cursos Livres](https://www.sp.senai.br/cursos/cursos-livres)** | 🇧🇷 |
+| **[SkillFront](https://www.skillfront.com/)** | 🌐 |
 | **[The Hackers Labs](https://labs.thehackerslabs.com/login)** | 🌐 |
 | **[Udemy](https://www.udemy.com/home/my-courses/learning/)** | 🌐 |
 
