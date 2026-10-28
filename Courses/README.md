@@ -8,6 +8,7 @@
 | **[FIAP Nano Courses](https://on.fiap.com.br/nano-courses/)** | 🇧🇷 |
 | **[Fortinet Training](https://www.fortinet.com/br/nse-training)** | 🌐 |
 | **[Fundação Bradesco EV](https://www.ev.org.br/cursos)** | 🇧🇷 |
+| **[Intel Certifications & Training](https://www.intel.com/content/www/us/en/corporate/certification-training.html)** | 🌐 |
 | **[ISC2 Training](https://www.isc2.org/training)** | 🌐 |
 | **[ItCerts Professional Certifications](https://www.itcerts.ca/)** | 🌐 |
 | **[Microsoft Learn](https://learn.microsoft.com/pt-br/training/browse/)** | 🌐 |
