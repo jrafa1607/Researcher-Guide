@@ -3,7 +3,6 @@
 | Plataforms | Scope |
 | :--- | :---: |
 | **[6SIGMAstudy](https://www.6sigmastudy.com/)** | 🌐 |
-| **[AWS Skill Builder](https://skillbuilder.aws/learn)** | 🌐 |
 | **[Cybrary](https://www.cybrary.it/)** | 🌐 |
 | **[Eu Capacito](https://www.eucapacito.com.br/todos-os-cursos/)** | 🇧🇷 |
 | **[FIAP Nano Courses](https://on.fiap.com.br/nano-courses/)** | 🇧🇷 |
