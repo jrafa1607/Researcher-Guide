@@ -5,7 +5,6 @@
 | **[6SIGMAstudy](https://www.6sigmastudy.com/)** | 🌐 |
 | **[Cybrary](https://www.cybrary.it/)** | 🌐 |
 | **[Eu Capacito](https://www.eucapacito.com.br/todos-os-cursos/)** | 🇧🇷 |
-| **[FIAP Nano Courses](https://on.fiap.com.br/nano-courses/)** | 🇧🇷 |
 | **[Fortinet Training](https://www.fortinet.com/br/nse-training)** | 🌐 |
 | **[Fundação Bradesco EV](https://www.ev.org.br/cursos)** | 🇧🇷 |
 | **[Hack & Fix Academy](https://academy.hackandfix.com/)** | 🌐 |
