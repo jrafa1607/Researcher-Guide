@@ -12,7 +12,7 @@
 | **[ISC² Training](https://www.isc2.org/training)** | 🌐 |
 | **[ItCerts Professional Certifications](https://www.itcerts.ca/)** | 🌐 |
 | **[Management and Strategy Institute](https://www.msicertified.com/)** | 🌐 |
-| **[Mastermind Assurance](https://mastermindassurance.com/)** | 🌐 |
+| **[Mastermind Assurance](https://learn.mastermindassurance.com/)** | 🌐 |
 | **[Microsoft Learn](https://learn.microsoft.com/pt-br/training/browse/)** | 🌐 |
 | **[Red Team Leaders](https://courses.redteamleaders.com/catalog)** | 🌐 |
 | **[SCRUMstudy](https://www.scrumstudy.com/)** | 🌐 |
