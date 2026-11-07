@@ -16,7 +16,6 @@
 | **[SCRUMstudy](https://www.scrumstudy.com/)** | 🌐 |
 | **[SENAI Cursos Livres](https://www.sp.senai.br/cursos/cursos-livres)** | 🇧🇷 |
 | **[SkillFront](https://www.skillfront.com/)** | 🌐 |
-| **[Softblue](https://www.softblue.com.br/)** | 🇧🇷 |
 | **[The Council for Six Sigma Certification](https://www.sixsigmacouncil.org/)** | 🌐 |
 | **[The Hackers Labs](https://labs.thehackerslabs.com/login)** | 🌐 |
 | **[Udemy](https://www.udemy.com/home/my-courses/learning/)** | 🌐 |
