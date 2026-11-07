@@ -13,8 +13,6 @@
 | **[ItCerts Professional Certifications](https://www.itcerts.ca/)** | 🌐 |
 | **[Management and Strategy Institute](https://www.msicertified.com/)** | 🌐 |
 | **[Mastermind Assurance](https://learn.mastermindassurance.com/)** | 🌐 |
-| **[Microsoft Learn](https://learn.microsoft.com/pt-br/training/browse/)** | 🌐 |
-| **[Red Team Leaders](https://courses.redteamleaders.com/catalog)** | 🌐 |
 | **[SCRUMstudy](https://www.scrumstudy.com/)** | 🌐 |
 | **[SENAI Cursos Livres](https://www.sp.senai.br/cursos/cursos-livres)** | 🇧🇷 |
 | **[SkillFront](https://www.skillfront.com/)** | 🌐 |
