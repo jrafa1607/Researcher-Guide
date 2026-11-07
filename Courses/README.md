@@ -18,6 +18,5 @@
 | **[SkillFront](https://www.skillfront.com/)** | 🌐 |
 | **[The Council for Six Sigma Certification](https://www.sixsigmacouncil.org/)** | 🌐 |
 | **[The Hackers Labs](https://labs.thehackerslabs.com/login)** | 🌐 |
-| **[Udemy](https://www.udemy.com/home/my-courses/learning/)** | 🌐 |
 
 ---
